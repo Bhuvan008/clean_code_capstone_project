@@ -3,6 +3,6 @@ numpy
 scikit-learn
 prophet
 yfinance
-pickle
+pickle5
 matlpotlib
 Flask
