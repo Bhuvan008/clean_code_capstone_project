@@ -4,5 +4,5 @@ scikit-learn
 prophet
 yfinance
 pickle5
-matlpotlib
+matplotlib
 Flask
